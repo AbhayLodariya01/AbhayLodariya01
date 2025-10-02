@@ -47,7 +47,7 @@ I recently completed my **BCA** and have been actively building **real-world pro
 
 ### 🌍 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/abhay-lodariya-786a62354]" target="blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-lodariya-786a62354" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abhaylodariya005@gmail.com.com">

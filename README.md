@@ -62,10 +62,6 @@ I recently completed my **BCA** and have been actively building **real-world pro
   <a href="https://www.instagram.com/https://www.instagram.com/nature_vibez_001?igsh=dXMyczBreGFncWY0" target="blank">    
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
   </a>  
-
-  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="blank">    
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>  
-  </a>  
 </p>
 
 

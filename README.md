@@ -59,7 +59,7 @@ I recently completed my **BCA** and have been actively building **real-world pro
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
   </a>  
 
-  <a href="https://www.instagram.com/https://www.instagram.com/nature_vibez_001?igsh=dXMyczBreGFncWY0" target="blank">    
+  <a href="https://www.instagram.com/nature_vibez_.011?igsh=OWplZ3c1ZWJmOTkx" target="blank">    
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
   </a>  
 </p>
